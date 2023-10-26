@@ -18,3 +18,5 @@ This code is useful for scenarios where you have different sets of data validati
 You can use this description when sharing your code with others, making it clear that you've made custom modifications to adapt it to your needs. If you have any further requests or adjustments, please don't hesitate to ask.
 
 By ChatGPT
+
+File here, you can make a copy: https://docs.google.com/spreadsheets/d/1peq0ywt_xSucvdvQ6_vBiegDnnyqdZkFF-tvy2ybHEY/edit?usp=sharing
