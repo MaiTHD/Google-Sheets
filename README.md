@@ -1,4 +1,4 @@
-# Google-Sheets
+# Multi-Select Data Inserter for Google Sheets - Supporting Multiple Validation Ranges
 **Description:**
 The provided code is an add-on for Google Sheets that enables users to select and populate the active cell with data from specific validation ranges. It supports multiple validation ranges, allowing users to choose from a list of defined validation areas and insert the selected data into the active cell.
 
